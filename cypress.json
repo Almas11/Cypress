@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://stage.cartlow.net/",
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "projectId": "1cqs5b"
+}

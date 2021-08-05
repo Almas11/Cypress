@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://cartlow.com",
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false
+}
